@@ -1,0 +1,46 @@
+.row1{
+    text-align: right;
+    vertical-align: center;
+    padding: 20px;
+}
+
+#gmail{
+    margin-right: 10px;
+}
+
+#gorseller{
+    margin-right: 10px;
+}
+nav{
+    float: right;
+}
+img {
+    width: 500px;
+}
+
+#materialicon {
+    width: 25px;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+#accounticon{
+    width: 30px;
+    vertical-align: middle;
+}
+
+form {
+    text-align: center;
+}
+
+.row2 {
+    text-align: center;
+    margin-top: 100px;
+}
+
+#textsearch {
+    width: 600px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 30px;
+}
